@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**Matsusz/Matsusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile 👋
 
-Here are some ideas to get you started:
+Hi there! My name is Mateusz, and I'm passionate about exploring the intersection of economics, data, and technology. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 **Education**: I am currently studying Economic Analytics.  
+💼 **Profession**: I work in the banking sector as a Data Analyst.  
+💻 **Interests**: I'm deeply interested in new technologies, coding, data science, and the stock market.  
+📈 **Skills**: I work with tools and languages such as Excel, SQL, VBA, Python, and R.  
+🌱 **Learning**: I enjoy seeking out new experiences and continuously learning new skills.  
+
+Feel free to explore my repositories or reach out to collaborate on projects related to data analysis, technology, and finance.
+
+---
+📬 Let's connect!
 -->
