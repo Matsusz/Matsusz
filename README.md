@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Welcome to My GitHub Profile 👋
 
 Hi there! My name is Mateusz, and I'm passionate about exploring the intersection of economics, data, and technology. Here's a little about me:
@@ -15,4 +14,4 @@ Feel free to explore my repositories or reach out to collaborate on projects rel
 
 ---
 📬 Let's connect!
--->
+
